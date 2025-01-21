@@ -12,6 +12,7 @@ splashScreen = "1.0.1"
 navigationVersion = "2.8.5"
 serializationVersion = "2.1.0"
 serializationJsonVersion = "1.8.0"
+koinVersion = "4.1.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
